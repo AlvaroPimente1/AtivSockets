@@ -15,8 +15,6 @@
   
  ## Linguagens usadas.
   <table>
-    <tr>
-      <td>Python<td>
-    <tr>
+    Python
   <table>
   
