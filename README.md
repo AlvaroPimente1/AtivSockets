@@ -2,6 +2,7 @@
 <h2>Atividade para desenvolver uma aplicação distribuída.</h2>
 
   __Trabalho da disciplina de Sitemas Distribuidos__
+  
   __Professor: Fabio Araujo__
   
   ## Integrantes
