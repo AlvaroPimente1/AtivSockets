@@ -1,8 +1,8 @@
 <h1>Sockets.</h1>
 <h2>Atividade para desenvolver uma aplicação distribuída.</h2>
 
-  ___Trabalho da disciplina de Sitemas Distribuidos.__
-  ___Professor: Fabio Araujo.__
+  Trabalho da disciplina de Sitemas Distribuidos
+  Professor: Fabio Araujo.
   
   ## Integrantes
   * Vitor Flores - https://github.com/Vitorfl0res25
