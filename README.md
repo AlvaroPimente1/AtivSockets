@@ -1,2 +1,2 @@
 # AtivSockets
-Atividade para desenvolver uma aplicação distribuída 
+Atividade para desenvolver uma aplicação distribuída simulando a de um restaurante 
