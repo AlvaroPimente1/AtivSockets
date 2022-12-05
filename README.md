@@ -1,5 +1,5 @@
-<h1>Sockets.h1>
-<h2>Atividade para desenvolver uma aplicação distribuída.h2>
+<h1>Sockets.<h1>
+<h2>Atividade para desenvolver uma aplicação distribuída.<h2>
 
   ___Trabalho da disciplina de Sitemas Distribuidos.__
   ___Professor: Fabio Araujo.__
